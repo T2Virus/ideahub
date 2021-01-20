@@ -1,2 +1,3 @@
-# IdeaHub Laravel
+# IdeaHub
+
 
